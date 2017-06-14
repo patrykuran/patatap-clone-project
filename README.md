@@ -1,5 +1,5 @@
 # Patatap-Clone-project-
-This is a project of the Patatap Website clone
+This is a project of a clone of the [Patatap website] (http://www.patatap.com/)
 
 -------------------------------------------------------------------------
 Press a Q - M key and enjoy some sounds accompanied by colorful shapes!
